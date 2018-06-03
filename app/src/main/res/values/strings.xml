@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Iphotos</string>
+    <string name="forget_password"><u>忘记密码？</u></string>
+    <string name="register_account"><u>注册新帐号</u></string>
+    <string name="error_phone"><u>请检查手机号码是否正确</u></string>
+    <string name="error_pwd"><u>请输入正确的密码格式</u></string>
+    <string name="error_cpwd"><u>请确认两次密码相同</u></string>
+    <string name="error_verify"><u>请输入正确的验证码</u></string>
+    <string name="error_email"><u>请检查邮箱是否正确</u></string>
+    <string name="login_success"><u>登陆成功，欢迎回来！</u></string>
+    <string name="register_success"><u>注册成功，欢迎使用！</u></string>
+    <string name="password_rule"><u>    密码由6-16位数字、字母组成</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
