@@ -24,7 +24,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-//import com.superscholar.android.tools.ActivityCollector;
+//import com.superscholar.android.tools.ActivityCollector    ;
 import com.example.iphotos.R;
 import com.example.iphotos.tools.ActivityCollector;
 import com.example.iphotos.tools.EncryptionDevice;
