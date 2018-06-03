@@ -68,7 +68,7 @@
         android:layout_width="match_parent"
         android:layout_height="40dp"
         app:rv_color="#FFFFFF"
-        android:layout_below="@id/login_passwordLayout"
+        android:layout_below="@+id/login_passwordLayout"
         android:layout_centerInParent="true"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="13dp"
